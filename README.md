@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bohdan Omelchenko</h1>
 <h3 align="center">A passionate QA Engineer from Ukraine</h3>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
